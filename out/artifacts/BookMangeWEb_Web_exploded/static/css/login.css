@@ -1,0 +1,42 @@
+body{
+    margin: 5% 0 ;
+    text-align: center;
+    position: relative;
+    /* position: fixed; */
+    /* left: 50%;
+    top: 40%; */
+    /* transform:translate(-50%,-50%); */
+}
+
+input{
+    border: 0;
+    background: #dad9d9;
+    line-height: 40px;
+    border-radius: 20px;
+    padding: 0 20px 0 20px;
+    width: 220px;
+    font-size: 15px;
+    margin-top: 20px;
+
+}
+
+input:focus{
+    outline: 0;
+}
+
+#button{
+    background: #497ac3;
+    margin-top: 60px;
+    width: 200px;
+    color: white;
+    box-shadow: 1px 1px 5px rgb(47, 47, 230);
+}
+
+#button:active{
+    background: #0a54c3;
+}
+
+#rememberme{
+    width: 10px;
+    width: 10px;
+}

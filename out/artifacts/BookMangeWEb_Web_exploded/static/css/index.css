@@ -1,0 +1,28 @@
+#background{
+    background-color: aliceblue;
+    height: 650px;
+    width: 800px;
+    position:fixed;
+    top: 40px;
+    left: 450px;
+    right: 100px;
+    border-radius: 15px;
+}
+
+.content-top-1 {
+    width: 150px;
+    height: 200px;
+    position:fixed;
+    top: 300px;
+    /* border-radius: 10px; */
+}
+
+.col-md-4{
+    /* position:fixed; */
+    margin-top: 50%;
+    height: 650px;
+}
+
+h2 {
+    width: 120px;
+}
